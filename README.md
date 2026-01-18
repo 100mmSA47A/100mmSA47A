@@ -4,6 +4,4 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b2545d63-39f1-4a18-9258-1afef1f813f0" alt="mouthman-7quid" width="300"/>
-</p>
+ХD
